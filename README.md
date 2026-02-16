@@ -1,4 +1,4 @@
-# PhD-level Data Visualization Package (Notebook + Dash + TimescaleDB + Grafana)
+# Data Visualization Package (Notebook + Dash + TimescaleDB + Grafana)
 
 ## Start the stack
 ```bash
